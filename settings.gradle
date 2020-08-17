@@ -2,4 +2,4 @@ rootProject.name='MobSDKDemo'
 include ':app'
 
 include ':MobSDK-Impl'
-project(':MobSDK-Impl').projectDir = new File('../../youzu/gitlab/Others/MobSDK/Impl')
+project(':MobSDK-Impl').projectDir = new File('../../Gitlab/Others/MobSDK/Impl')
