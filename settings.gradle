@@ -1,5 +1,2 @@
-rootProject.name='MobSDKDemo'
-include ':app'
-
 include ':MobSDK-Impl'
 project(':MobSDK-Impl').projectDir = new File('../../Gitlab/Others/MobSDK/Impl')
